@@ -20,25 +20,25 @@ The price range for entire homes and apartments is more varied compared to priva
 
 **Conditional Distribution for Downtown:**
 
-Entire home/apt: $1068 / 1213 ≈ 0.88$ (rounded to two decimal places)
+Entire home/apt: $1068 / 1213 ≈ 0.880$ (rounded to three decimal places)
 
-Private room: $145 / 1213 ≈ 0.12$
+Private room: $145 / 1213 ≈ 0.120$
 
 **Conditional Distribution for Kitsilano:**
 
-Entire home/apt: $367 / 486 ≈ 0.76$
+Entire home/apt: $367 / 486 ≈ 0.755$
 
-Private room: $119 / 486 ≈ 0.24$
+Private room: $119 / 486 ≈ 0.245$
 
 **Conditional Distribution for West End:**
 
-Entire home/apt: $345 / 430 ≈ 0.80$
+Entire home/apt: $345 / 430 ≈ 0.802$
 
-Private room: $85 / 430 ≈ 0.20$
+Private room: $85 / 430 ≈ 0.198$
 
 ### 1d
 
-There is some variation in the distribution of room types among the neighborhoods, but to draw a more conclusive inference about the association, namely that downtown is more likely to offer an entire home/apt than Kitsilano or the West End.
+There is some variation in the distribution of room types among the neighborhoods, but to draw a more conclusive inference about the association, namely that downtown is more likely to offer an entire home/apt than Kitsilano or the West End. Using the conditional distribution for this shows that 88% of listings are entire home/apt listings for downtown, while for Kitsilano and the West End it is 75.5% and 80.2% respectively, significantly less. 
 
 ## Q2
 
