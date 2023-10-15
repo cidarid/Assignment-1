@@ -4,7 +4,7 @@
 
 ### 1a
 
-![alt text](./Q1a.png)
+<img src="Q1a.png" height="500">
 
 The histogram above is fundamentally right skewed, with most of the data appearing in the left 10% of the graph. As this graph has some significant outliers, I have chosen to use median as my measure of center, as mean would be thrown off by the outliers. In this case, the median is 131.
 
@@ -12,7 +12,7 @@ For the measure of spread, I have chosen to use quartiles. A range measurement w
 
 ### 1b
 
-![alt text](./Q1b.png)
+<img src="Q1b.png" height="500">
 
 ### 1c
 
@@ -42,9 +42,10 @@ There is some variation in the distribution of room types among the neighborhood
 
 ### 2a
 
-![Alt text](2a_draft.png)
-![Alt text](2a_wingspan.png)
-![Alt text](2a_vmax.png)
+
+<img src="2a_draft.png" height="500">
+<img src="2a_wingspan.png" height="500">
+<img src="2a_vmax.png" height="500">
 
 Height and Draft Pick have a weak negative relationship of -0.135, implying that there's only a slight tendency for shorter players to be selected later in the draft.
 
@@ -73,7 +74,7 @@ Given the strong linear relationship indicated, a least square regression line i
 
 The equation for the least square regression line is as follows: $\text{Wingspan} = 5.34 + 0.99 * \text{Height}$.
 
-![Alt text](2c.png)
+<img src="2c.png" height="500">
 
 This graph clearly indicates a strong linear fit. Many of the datapoints are close to the line, and the x-values increase as the y-values do.
 
@@ -87,7 +88,7 @@ The least squares regression line is as follows: $\text{Vertical Max} = 74.13 - 
 
 The relevant plot with the regression line fitted appears below:
 
-![Alt text](2d.png)
+<img src="2d.png" height="500">
 
 The fit is adequate. Most datapoints appear near the line, and as x-values increase, y-values tend to decrease, as indicated by the negative slope of -1/2.
 
@@ -124,7 +125,8 @@ To predict the vertical max for one player who is 80 inches tall and another who
 
   Daily placebo (control group)</li>
   <li> Study Diagram
-  <img src="diagram.png"/></li>
+  
+  <img src="diagram.png" height="500"/></li>
   <li>A double-blind study means that both the researchers conducting the experiment and the participants (subjects) are unaware of which treatment group each participant belongs to. This is done to minimize bias and ensure that the results are not influenced by expectations or preconceptions.</li>
   <li>"No significant difference" means that the statistical analysis of the data from the experiment did not show a statistically significant variation in the incidence of colon cancer among the different treatment groups. In other words, the experiment did not find any clear evidence that taking antioxidants (beta-carotene, vitamins C and E) had a significant effect on preventing colon cancer compared to the placebo group.</li>
   <li>A lurking variable that could explain why people who eat lots of fruits and vegetables have lower rates of colon cancer is the overall diet and lifestyle of the individuals. People who consume a diet rich in fruits and vegetables are likely to have other healthy dietary and lifestyle habits, such as lower consumption of processed and red meats, higher fiber intake, and regular physical activity. These factors, rather than antioxidants alone, may be responsible for the observed benefits of fruits and vegetables in preventing colon cancer.</li>
