@@ -142,14 +142,7 @@ To predict the vertical max for one player who is 80 inches tall and another who
   
   Factor 2: Ethanol Content (0%, 5%, 10%)</li>
   <li>Treatments:
-  
-(a) The experimental unit in this study is each of the four car models: Ferrari Maserati, Lamborghini Aventador, Ford Fiesta, and Toyota RAV-4.
-
-(b) Factors:
-
-Factor 1: Type of Composite Additive (Greta100, Greta200, Greta500)
-Factor 2: Ethanol Content (0%, 5%, 10%)
-(c) Treatments:
+Treatments:
 There are 12 treatments in this experiment, representing all possible combinations of the two factors:
     <ol>
       <li>Greta100 with 0% ethanol</li>
