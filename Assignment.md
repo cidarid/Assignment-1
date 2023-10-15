@@ -14,6 +14,8 @@ For the measure of spread, I have chosen to use quartiles. A range measurement w
 
 <img src="Q1b.png" height="500">
 
+The price range for entire homes and apartments is more varied compared to private and shared rooms. The interquartile range for entire homes/apartments is 139, while for private rooms it's 45, and for shared rooms it's 30. 
+
 ### 1c
 
 **Conditional Distribution for Downtown:**
@@ -63,20 +65,7 @@ The p-value is 0.014, which also indicates a relatively weak linear relationship
 
 ### 2c
 
-I will again be using the r-squared value and p-value for the relationship between the dependent variable (wingspan) and the independent variable (height).
 
-The R-squared value in this case is 0.7037, which is relatively high.
-This indicates that approximately 70.37% of the variance in wingspan can be explained by the player's height, showing that height is a good predictor of wingspan for this dataset.
-
-The p-value is 2.22e-16, which is essentially zero. The extremely low p-value suggests that there is a highly significant linear relationship between height and wingspan.
-
-Given the strong linear relationship indicated, a least square regression line is a good fit.
-
-The equation for the least square regression line is as follows: $\text{Wingspan} = 5.34 + 0.99 * \text{Height}$.
-
-<img src="2c.png" height="500">
-
-This graph clearly indicates a strong linear fit. Many of the datapoints are close to the line, and the x-values increase as the y-values do.
 
 ### 2d
 
